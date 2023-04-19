@@ -1,5 +1,13 @@
 # Seattle Collision Data
 
+=======
+##
+## Data Overview
+##
+
+## Tableau Information
+##
+
 ### Predicting Falities and Serious Injury using Machine Learning
 
 #### What is the purpose of being able to predict whether a collision will cause serious injuries or fatalities?
@@ -25,3 +33,6 @@ We chose to go with the Random Forest Classifier algorithm because not only did 
 
 Based on the evaluation results, the model showed promising performance with high accuracy and reasonable precision, recall, and F1 score. When evalutating other models we looked for the high recall scores, meaning we wanted something that caught as many true negatives as possible.
 ![Alt text](images/ml_bfc_confusion_matrix.png)
+
+## Presntation Slides
+

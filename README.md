@@ -21,7 +21,7 @@ We chose to go with the Random Forest Classifier algorithm because not only did 
 * Provides a feature importance measure, which allows for the identification of the most important features in the dataset. This can help in understanding the underlying patterns and relationships in the data, and make informed decisions based on feature importance rankings. 
 * Can capture non-linear relationships and interactions between features in the data, making it suitable for complex datasets where simple linear models may not perform well.
 * Can handle large datasets and high-dimensional feature spaces efficiently, making it suitable for datasets with a large number of samples or features.
-![Alt text](../images/ml_performance_metrics.png)
+![Alt text](images/ml_performance_metrics.png)
 
 Based on the evaluation results, the model showed promising performance with high accuracy and reasonable precision, recall, and F1 score. When evalutating other models we looked for the high recall scores, meaning we wanted something that caught as many true negatives as possible.
-![Alt text](../images/ml_bfc_confusion_matrix.png)
+![Alt text](images/ml_bfc_confusion_matrix.png)

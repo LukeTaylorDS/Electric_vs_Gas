@@ -1,0 +1,5 @@
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/InteractiveMap?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/DUIdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/speeddash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/minmaxdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/weatherandcollisiontypedash?publish=yes

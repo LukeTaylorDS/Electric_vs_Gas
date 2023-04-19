@@ -1,11 +1,17 @@
 # Seattle Collision Data
 
-=======
+
 ##
 ## Data Overview
+For our Project, we pulled the data from Data.gov for Vehicle Collisions from 2003 to present for the City of Seattle. 
 ##
 
 ## Tableau Information
+https://public.tableau.com/app/profile/tayler.despain/viz/CityofSeattleReportedVehicleAccidents/Dashboard1
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/DUIdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/speeddash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/minmaxdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/weatherandcollisiontypedash?publish=yes
 ##
 
 ### Predicting Falities and Serious Injury using Machine Learning
@@ -35,4 +41,4 @@ Based on the evaluation results, the model showed promising performance with hig
 ![Alt text](images/ml_bfc_confusion_matrix.png)
 
 ## Presntation Slides
-
+https://docs.google.com/presentation/d/1NGh0JGHu3NgqyXn_sbl0Y530mmzCxedCYg6hrpIQaPc/edit#slide=id.g219bedc804f_0_20

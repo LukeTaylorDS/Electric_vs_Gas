@@ -6,7 +6,7 @@
 For our Project, we pulled the data from Data.gov for Vehicle Collisions from 2003 to present for the City of Seattle. 
 
 ## Bringing our Data to Life
-
+![This is an image](images/map_image.png)
 
 https://public.tableau.com/app/profile/tayler.despain/viz/CityofSeattleReportedVehicleAccidents/Dashboard1
 

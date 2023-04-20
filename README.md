@@ -5,7 +5,10 @@
 ## Data Overview
 For our Project, we pulled the data from Data.gov for Vehicle Collisions from 2003 to present for the City of Seattle. 
 
-## Summary 
+## Bringing our Data to Life
+
+
+https://public.tableau.com/app/profile/tayler.despain/viz/CityofSeattleReportedVehicleAccidents/Dashboard1
 
 ### Percentage of Collisions under the influence of drugs or alcohol
 
@@ -42,12 +45,8 @@ In our dashboard relate the collisions with the weather and light conditions; Mo
 ### Fatalities and Injuries depending the collision type
 
 Finally, we compare the number of fatalities and serious injuries based on the type of collision, which shows us that pedestrians are most at risk of being seriously injured or even killed in an accident, and the least risky type of collision is when making a right turn.
-## Tableau Information
-https://public.tableau.com/app/profile/tayler.despain/viz/CityofSeattleReportedVehicleAccidents/Dashboard1
-https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/DUIdash?publish=yes
-https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/speeddash?publish=yes
-https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/minmaxdash?publish=yes
-https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/weatherandcollisiontypedash?publish=yes
+
+
 ##
 
 ### Predicting Falities and Serious Injury using Machine Learning
@@ -76,5 +75,9 @@ We chose to go with the Random Forest Classifier algorithm because not only did 
 Based on the evaluation results, the model showed promising performance with high accuracy and reasonable precision, recall, and F1 score. When evalutating other models we looked for the high recall scores, meaning we wanted something that caught as many true negatives as possible.
 ![Alt text](images/ml_bfc_confusion_matrix.png)
 
-## Presntation Slides
+## Presntation Slides and Sources
 https://docs.google.com/presentation/d/1NGh0JGHu3NgqyXn_sbl0Y530mmzCxedCYg6hrpIQaPc/edit#slide=id.g219bedc804f_0_20
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/DUIdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/speeddash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/minmaxdash?publish=yes
+https://public.tableau.com/app/profile/ivan.david.quesada/viz/seattleaccidentsplt/weatherandcollisiontypedash?publish=yes
